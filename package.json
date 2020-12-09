@@ -1,0 +1,20 @@
+{
+  "name": "issuePutBot",
+  "version": "1.0.0",
+  "description": "Bot: _IF_ new article on SLACK, _THEN_ makes a new issue on GITLAB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJSKR/issuePutBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJSKR/issuePutBot/issues"
+  },
+  "homepage": "https://github.com/AJSKR/issuePutBot#readme"
+}
