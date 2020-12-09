@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AJSKR/issuePutBot/issues"
   },
-  "homepage": "https://github.com/AJSKR/issuePutBot#readme"
+  "homepage": "https://github.com/AJSKR/issuePutBot#readme",
+  "dependencies": {
+    "@gitbeaker/node": "^26.0.0"
+  }
 }
