@@ -4,6 +4,7 @@
   "description": "Bot: _IF_ new article on SLACK, _THEN_ makes a new issue on GITLAB.",
   "main": "index.js",
   "scripts": {
+    "start": "node issuePutBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
